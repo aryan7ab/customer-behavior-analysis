@@ -12,7 +12,7 @@ st.title("📊 Customer Behavior Analysis Dashboard")
 
 # --- MySQL Connection ---
 username = "root"
-password = "aryan123"
+password = "password"
 host = "localhost"
 port = "3306"
 database = "customer_behavior"
